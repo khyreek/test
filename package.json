@@ -1,0 +1,21 @@
+{
+    "name": "testz",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "gh": "git add . && git commit -m \"bruh gh\" && git push origin main"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/khyreek/testz.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/khyreek/testz/issues"
+    },
+    "homepage": "https://github.com/khyreek/testz#readme"
+}
