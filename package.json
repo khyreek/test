@@ -17,5 +17,8 @@
     "bugs": {
         "url": "https://github.com/khyreek/testz/issues"
     },
-    "homepage": "https://github.com/khyreek/testz#readme"
+    "homepage": "https://github.com/khyreek/testz#readme",
+    "dependencies": {
+        "testz": "file:"
+    }
 }
